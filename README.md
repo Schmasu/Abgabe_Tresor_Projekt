@@ -1,6 +1,6 @@
 # High security safe
 
-This repo contains all files for the high security safe project for teaching embedded concepts.
+Das ist die Abgabe vom Team LCD und Keypad.
 
 
 ## Project description
